@@ -1,5 +1,11 @@
 # Wireless-Voice-Control-Robot-Using-Arduino-and-C#-Application
 In this project the Robot is connected through the arduino with bluetooth module(hc-05).From the Voice command the C# Application generate a specific code and send to the bluetooth module and according to the recevied signal the arduino move the motor accordingly.
+## Speak:- 
+#### RISHABH FORWARD for forward Moving
+#### RISHABH BACKWORD for moving backword
+#### RISHABH RIGHT for moving right
+#### RISHABH LEFT for moving left
+#### RISHABH STOP for stop the robot
 
 ### Circuit Diagram
 
